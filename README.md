@@ -61,6 +61,8 @@ approach implementing [Project 01].
 
 ## Errata
 
+> Describe any known errors, bugs, or deviations from the requirements.
+
 There are no errors/deviations from the requirements.
 
 [Project 01]:       https://www3.nd.edu/~pbui/teaching/cse.30341.fa21/project01.html
