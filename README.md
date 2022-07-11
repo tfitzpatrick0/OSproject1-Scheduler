@@ -2,7 +2,7 @@
 
 This is [Project 01] of [CSE.30341.FA21].
 
-## Students
+## Implemented by
 
 - Ryan Sherman (rsherma2@nd.edu)
 - Tim Fitzpatrick (tfitzpa3@nd.edu)
